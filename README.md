@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NotGhoull/NotGhoull/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NotGhoull/NotGhoull/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
 
