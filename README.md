@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- I'm currently interested in contributing more to open source!<br>- Currently learning Cyber security (Offensive penetration testing)</p>
+<p align="left">- I'm currently interested in contributing more to open source!<br>- Currently learning more C#</p>
 
 ###
 
@@ -27,8 +27,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
@@ -37,11 +35,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tauri" height="30" alt="tauri logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="svelte logo"  />
 </div>
 
 ###
