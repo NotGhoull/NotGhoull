@@ -1,3 +1,5 @@
+# Migrated to gitlab https://gitlab.com/notghoull
+
 <h2 align="left">Hi 👋! My name is Ghoul and I'm a Developer, from the UK!</h2>
 
 ###
